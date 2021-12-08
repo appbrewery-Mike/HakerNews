@@ -7,7 +7,7 @@
 
     This application was created as example for CV. In this application you will be able to read news in IT world
 
-![Banner](https://github.com/chinesemedstudent/Images-and-Gifs-for-readme/blob/master/HakerNewsGIF.gif)
+![Banner](https://github.com/chinesemedstudent/Images-and-Gifs-for-readme/blob/master/HKNW.gif)
 
 ## What I used?
 
