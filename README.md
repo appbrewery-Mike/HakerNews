@@ -1,6 +1,6 @@
 # H4X0R News ✓
 
-![Chinese Medstudent Application Factory](https://github.com/chinesemedstudent/Images-and-Gifs-for-readme/blob/master/HakerNews.png)
+![Mike Brew Application Factory](https://github.com/appbrewery-Mike/Images-and-Gifs-for-readme/blob/master/GitReadHAkerDemo.gif)
 
 
 ## H4X0R News
